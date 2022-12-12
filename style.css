@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #000000;
+}
+
+body {
+    background-color: rgb(236, 133, 8);
+    color:  #802c8f;            
+    font-family: 'Albert Sans', sans-serif;}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  border: rgb(160, 158, 163) ;
+}
+
+#textstore {
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+h3 {
+    margin: 15px 0;
+}
+
+button {
+    background-color: #bcdbc6;
+    border: 0;
+    padding: 10px;
+    border-radius: 15px;
+    margin-left: 7px;
+   
+    
+}
+
+input {
+    border: 0;
+    padding: 10px;
+    border-radius: 7px;
+}
+
